@@ -1,4 +1,4 @@
-# Credit-card-fraud-detection-using-tensorflow
+# Credit-card-fraud-detection
 ## Prerequisites:
 ### --> Sound knowledge of Python coding and ML concepts
 ### --> A good understanding of Deep learning 
