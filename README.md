@@ -4,4 +4,6 @@
 ### --> A good understanding of Deep learning 
 ### --> Good understanding of statistics and mathematics involved in ML algo's
 
+## Dataset link: https://www.kaggle.com/mlg-ulb/creditcardfraud
+
 #### Hope you like my work:)
